@@ -14,7 +14,7 @@ export const appConfig = {
   // MODULE 2 - REALTIME
   iot: {
     poolId: 'us-east-1:8d510922-43a2-4f72-9963-a072f35323e0', // e.g. 'us-west-2:1abcdef-1234-abcd-1234-abcde123456'
-    host: 'endpointAddress": "a1285zylvbajdh-ats.iot.us-east-1.amazonaws.com', // e.g. 'ab12ab12abcde.iot.us-east-1.amazonaws.com'
+    host: 'a1285zylvbajdh-ats.iot.us-east-1.amazonaws.com', // e.g. 'ab12ab12abcde.iot.us-east-1.amazonaws.com'
     region: 'us-east-1' // e.g. 'us-west-1'
   },
   // MODULE 3 - PHOTOS
